@@ -1,1 +1,1 @@
-# Fase-I---Planeacion-de-software
+# Fase I-Planeacion de software
